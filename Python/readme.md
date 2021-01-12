@@ -50,6 +50,7 @@
   - [561. Array Partition I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/561.%20Array%20Partition%20I.py) 
   - [581. Shortest Unsorted Continuous Subarray]()
   - [611. Valid Triangle Number *]()
+  - [621. Task Scheduler *]()
   - [905. Sort Array By Parity](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/905.%20Sort%20Array%20By%20Parity.py) 
   - [1086. High Five](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1086.%20High%20Five.py) 
 
@@ -90,6 +91,7 @@
   - [285. Inorder Successor in BST *]()
   - [298. Binary Tree Longest Consecutive Sequence]()
   - [337. House Robber III]()
+  - [437. Path Sum III *]()
   - [450. Delete Node in a BST]()
   - [543. Diameter of Binary Tree ](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/543.%20Diameter%20of%20Binary%20Tree.py) 
   - [617. Merge Two Binary Trees](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
@@ -234,6 +236,7 @@
  - [276. Paint Fence *]()
  - [279. Perfect Squares]()
  - [300. Longest Increasing Subsequence *]()
+ - [416. Partition Equal Subset Sum]()
  - [516. Longest Palindromic Subsequence]()
  - [647. Palindromic Substrings]()
 
@@ -250,6 +253,7 @@
   - [101. Symmetric Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/101.%20Symmetric%20Tree.py)
   - [104. Maximum Depth of Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
   - [339. Nested List Weight Sum](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/339.%20Nested%20List%20Weight%20Sum.py)
+  - [494. Target Sum]()
 
 ### Backtracking
   - [17. Letter Combinations of a Phone Number]( )
