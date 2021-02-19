@@ -9,12 +9,15 @@
   - [28. Implement strStr()]()
   - [38. Count and Say]()
   - [58. Length of Last Word]()
+  - [65. Valid Number]()
   - [125. Valid Palindrome]()
   - [161. One Edit Distance]()
   - [165. Compare Version Numbers]()
   - [186. Reverse Words in a String II]()
   - [293. Flip Game]()
   - [271. Encode and Decode Strings]()
+  - [408. Valid Word Abbreviation]()
+  - [459. Repeated Substring Pattern]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [680. Valid Palindrome II*]()
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
@@ -25,13 +28,15 @@
 
 ### Array
   - [31. Next Permutation *]()
-  - [35. Search Insert Position]( )
+  - [35. Search Insert Position]()
+  - [41. First Missing Positive]()
   - [48. Rotate Image]()
   - [54. Spiral Matrix*]()
   - [59. Spiral Matrix II]()
   - [73. Set Matrix Zeroes*]()
   - [118. Pascal's Triangle]()
   - [119. Pascal's Triangle II]()
+  - [124. Binary Tree Maximum Path Sum]()
   - [153. Find Minimum in Rotated Sorted Array]()
   - [154. Find Minimum in Rotated Sorted Array II*]()
   - [162. Find Peak Element]()
@@ -89,10 +94,13 @@
   - [257. Binary Tree Paths]()
   - [270. Closest Binary Search Tree Value *]()
   - [285. Inorder Successor in BST *]()
+  - [297. Serialize and Deserialize Binary Tree]()
   - [298. Binary Tree Longest Consecutive Sequence]()
   - [337. House Robber III]()
+  - [404. Sum of Left Leaves]()
   - [437. Path Sum III *]()
   - [450. Delete Node in a BST]()
+  - [449. Serialize and Deserialize BST]()
   - [543. Diameter of Binary Tree ](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/543.%20Diameter%20of%20Binary%20Tree.py) 
   - [617. Merge Two Binary Trees](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
   - [669. Trim a Binary Search Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/669.%20Trim%20a%20Binary%20Search%20Tree.py) 
@@ -112,8 +120,9 @@
   - [246. Strobogrammatic Number]()
   - [249. Group Shifted Strings]()
   - [260. Single Number III]()
-  - [266. Palindrome Permutation]()
+  - [266. Palindrome Permutation]() 
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
+  - [451. Sort Characters By Frequency]()
   - [454. 4Sum II]()
   - [560. Subarray Sum Equals K *]()
   - [771. Jewels and Stones](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/771.%20Jewels%20and%20Stones.py) 
@@ -152,12 +161,21 @@
 ### Stack
   - [20. Valid Parentheses](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/20.%20Valid%20Parentheses.py)
   - [71. Simplify Path *]()
+  - [84. Largest Rectangle in Histogram *]()
+  - [150. Evaluate Reverse Polish Notation *]()
   - [227. Basic Calculator II *]()
   - [155. Min Stack](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/155.%20Min%20Stack.py)
+  - [394. Decode String]()
+  - [402. Remove K Digits]()
   - [496. Next Greater Element I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/496.%20Next%20Greater%20Element%20I.py)
   - [739. Daily Temperatures]()
   - [1047. Remove All Adjacent Duplicates In String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
 
+
+
+### Heap
+- [23. Merge k Sorted Lists *]()
+- [378. Kth Smallest Element in a Sorted Matrix]()
 
 ## Algorithm & Topics
 ### Sort
@@ -186,6 +204,7 @@
   - [18. 4Sum]()
   - [26. Remove Duplicates from Sorted Array]()
   - [27. Remove Element]()
+  - [42. Trapping Rain Water]()
   - [75. Sort Colors *]()
   - [88. Merge Sorted Array]()
   - [259. 3Sum Smaller]()
@@ -194,8 +213,11 @@
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)
   - [763. Partition Labels *]()
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)
+  - [986. Interval List Intersections]()
 
 ### Sliding Windows
+ - [30. Substring with Concatenation of All Words *]()
+ - [76. Minimum Window Substring *]()
  - [159. Longest Substring with At Most Two Distinct Characters]()
  - [209. Minimum Size Subarray Sum]()
  - [239. Sliding Window Maximum]()
@@ -236,6 +258,7 @@
  - [276. Paint Fence *]()
  - [279. Perfect Squares]()
  - [300. Longest Increasing Subsequence *]()
+ - [322. Coin Change]()
  - [416. Partition Equal Subset Sum]()
  - [516. Longest Palindromic Subsequence]()
  - [647. Palindromic Substrings]()
@@ -248,6 +271,7 @@
   - [200. Number of Islands]()
   - [261. Graph Valid Tree *]()
   - [286. Walls and Gates]()
+  - [399. Evaluate Division*]()
 
 ### Depth-first Search  
   - [101. Symmetric Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/101.%20Symmetric%20Tree.py)
@@ -282,6 +306,13 @@
   - [241. Different Ways to Add Parentheses *]()
 
 
+### Intervals
+  - [56. Merge Intervals]()
+  - [57. Insert Intervals]()
+  - [435. Non-overlapping Intervals]()
+  - [759. Employee Free Time]()
+  - [986. Interval List Intersections]()
+
 ### Math
   - [7. Reverse Integer]()
   - [9. Palindrome Number]()
@@ -306,6 +337,7 @@
   - [268. Missing Number]()
   - [279. Perfect Squares *]()
   - [292. Nim Game]()
+  - [453. Minimum Moves to Equal Array Elements]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)
 
   ### Greedy
@@ -319,6 +351,7 @@
 
 
   ### Design
+  - [146. LRU Cache*]()
   - [173. Binary Search Tree Iterator]()
   - [225. Implement Stack using Queues]()
   - [232. Implement Queue using Stacks]()
