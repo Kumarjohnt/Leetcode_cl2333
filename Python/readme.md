@@ -49,6 +49,7 @@
   - [243. Shortest Word Distance]()
   - [245. Shortest Word Distance III]()
   - [289. Game of Life]()
+  - [442. Find All Duplicates in an Array]()
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
   - [509. Fibonacci Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
@@ -236,6 +237,7 @@
   - [240. Search a 2D Matrix II *]()
   - [275. H-Index II]()
   - [278. First Bad Version]()
+  - [436. Find Ri                         ght Interval]()
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
 ### Dynamic Programming
@@ -301,6 +303,16 @@
   - [294. Flip Game II]()
 
 
+
+### Union Find
+  - [128. Longest Consecutive Sequence]()
+  - [323. Number of Connected Components in an Undirected Graph]()
+  - [547. Number of Provinces]()
+  - [684. Redundant Connection]()
+  - [685. Redundant Connection II]()
+  - [737. Sentence Similarity II]()
+
+
 ### Divide and Conquer
   - [215. Kth Largest Element in an Array *]()
   - [241. Different Ways to Add Parentheses *]()
@@ -310,6 +322,8 @@
   - [56. Merge Intervals]()
   - [57. Insert Intervals]()
   - [435. Non-overlapping Intervals]()
+  - [436. Find Right Interval]()
+  - [452. Minimum Number of Arrows to Burst Balloons]()
   - [759. Employee Free Time]()
   - [986. Interval List Intersections]()
 
@@ -338,6 +352,7 @@
   - [279. Perfect Squares *]()
   - [292. Nim Game]()
   - [453. Minimum Moves to Equal Array Elements]()
+  - [462. Minimum Moves to Equal Array Elements II]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)
 
   ### Greedy
