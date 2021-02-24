@@ -264,6 +264,8 @@
  - [416. Partition Equal Subset Sum]()
  - [516. Longest Palindromic Subsequence]()
  - [647. Palindromic Substrings]()
+ - [1770. Maximum Score from Performing Multiplication Operations]()
+ - [1771. Maximize Palindrome Length From Subsequences]()
 
 ### Breath-first Search
   - [126. Word Ladder II *]()
@@ -306,11 +308,13 @@
 
 ### Union Find
   - [128. Longest Consecutive Sequence]()
+  - [305. Number of Islands II*]()
   - [323. Number of Connected Components in an Undirected Graph]()
   - [547. Number of Provinces]()
   - [684. Redundant Connection]()
-  - [685. Redundant Connection II]()
-  - [737. Sentence Similarity II]()
+  - [685. Redundant Connection II*]()
+  - [721. Accounts Merge*]()
+  - [737. Sentence Similarity II*]()
 
 
 ### Divide and Conquer
