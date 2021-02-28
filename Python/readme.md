@@ -18,6 +18,7 @@
   - [271. Encode and Decode Strings]()
   - [408. Valid Word Abbreviation]()
   - [459. Repeated Substring Pattern]()
+  - [556. Next Greater Element III]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [680. Valid Palindrome II*]()
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
@@ -52,6 +53,7 @@
   - [442. Find All Duplicates in an Array]()
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
+  - [498. Diagonal Traverse]()
   - [509. Fibonacci Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
   - [561. Array Partition I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/561.%20Array%20Partition%20I.py) 
   - [581. Shortest Unsorted Continuous Subarray]()
@@ -169,6 +171,7 @@
   - [394. Decode String]()
   - [402. Remove K Digits]()
   - [496. Next Greater Element I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/496.%20Next%20Greater%20Element%20I.py)
+  - [556. Next Greater Element II]()
   - [739. Daily Temperatures]()
   - [1047. Remove All Adjacent Duplicates In String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
 
@@ -276,6 +279,7 @@
   - [261. Graph Valid Tree *]()
   - [286. Walls and Gates]()
   - [399. Evaluate Division*]()
+  - [863. All Nodes Distance K in Binary Tree]()
 
 ### Depth-first Search  
   - [101. Symmetric Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/101.%20Symmetric%20Tree.py)
